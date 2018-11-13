@@ -24,7 +24,7 @@ def solveQ5(upper):
                 count += 1
         if count==upper:
             return i
-        i += 1
+        i += upper
 
 
 
