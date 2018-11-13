@@ -1,0 +1,2 @@
+
+print(sum-c)
