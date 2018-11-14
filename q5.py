@@ -10,11 +10,11 @@ divisible by all of the numbers from 1 to 20?
 
 """
 
-def solveQ5(upper):
+def solveQ5(upper,step):
     """
     solves q5
     """
-    i = 40
+    i = step
     while True:
         count = 0
         print(i)
@@ -23,9 +23,9 @@ def solveQ5(upper):
                 count += 1
         if count==upper:
             return i
-        i += upper
+        i += step
         
 if __name__ == '__main__':
     print("Started Main Function")
-    a = solveQ5(20)
+    a = solveQ5(20,3420)
     print("Answer: %s" % a)
