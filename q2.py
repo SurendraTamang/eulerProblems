@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-q2.py - Euler Question No. 2- Even Fibonacci numbers
+q2.py - Project Euler Question No. 2- Even Fibonacci numbers
 
 Question:
 Each new term in the Fibonacci sequence is generated 
@@ -14,7 +14,7 @@ whose values do not exceed four million,
 find the sum of the even-valued terms.
 
 Question Link https://projecteuler.net/problem=2
-
+Program Written By :- Surendra Tamang
 """
 
 

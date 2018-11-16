@@ -1,6 +1,6 @@
 #!usr/bin/env python
 """
-q1.py - Euler Question No. 1-Multiples of 3 and 5
+q1.py - Project Euler Question No. 1-Multiples of 3 and 5
 
 Question:
 If we list all the natural numbers below 10 that are multiples 
@@ -9,7 +9,7 @@ of 3 or 5,
 Find the sum of all the multiples of 3 or 5 below 1000.
 
 Question Link https://projecteuler.net/problem=1
-
+Program Written By :- Surendra Tamang
 """
 
 
