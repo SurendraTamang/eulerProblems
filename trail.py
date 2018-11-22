@@ -1,9 +1,9 @@
-
-for i in range (11,10000):
-    count=0
-    for j in range(1,11):
-        if (i%j==0):
-            count=count+1
-            if(count==10):
-                print(i)
-    
+num = 600851475143
+i = 2
+while i * i < num:
+    print(i)
+    while num % i == 0:
+        num = num / i
+        print(num)
+    i = i + 1
+print(num)

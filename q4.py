@@ -2,10 +2,10 @@
 """
 q4.py - Project Euler Question No. 4- Largest palindrome product
 
-A palindromic number reads the same both ways. The largest 
-palindrome made from the product of two 2-digit numbers is 
+A palindromic number reads the same both ways. The largest
+palindrome made from the product of two 2-digit numbers is
 9009 = 91 × 99.
-Find the largest palindrome made from the product of two 
+Find the largest palindrome made from the product of two
 3-digit numbers.
 
 Question Link:- https://projecteuler.net/problem=4
@@ -14,6 +14,9 @@ Program Written By :- Surendra Tamang
 
 
 def solveQ4(digit_number):
+     """
+    It solves question 4
+    """
     result = 0
     highest = 1
     for i in range((digit_number-1), 1, -1):
