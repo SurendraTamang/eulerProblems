@@ -1,0 +1,5 @@
+Solution of the Problem:
+1. The first step is to calculate the value of the given number using the simple range and multipyling the number
+2. Reversing the number 
+3. Checking for the number using the if condition and counting the number
+-----
